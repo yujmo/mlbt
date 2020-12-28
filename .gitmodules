@@ -1,3 +1,6 @@
 [submodule "神经网络可视化/netron/netron"]
 	path = 神经网络可视化/netron/netron
 	url = https://github.com/lutzroeder/netron.git
+[submodule "神经网络可视化/visdom"]
+	path = 神经网络可视化/visdom
+	url = https://github.com/facebookresearch/visdom
