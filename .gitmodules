@@ -4,3 +4,6 @@
 [submodule "神经网络可视化/visdom"]
 	path = 神经网络可视化/visdom
 	url = https://github.com/facebookresearch/visdom
+[submodule "tools/xgboost"]
+	path = tools/xgboost
+	url = https://github.com/dmlc/xgboost
