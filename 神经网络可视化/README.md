@@ -1,4 +1,4 @@
-# 本目录中的文件介绍
+# 目录中的文件介绍
 
 
   * modelviz.py[^1] 展示了网络结构可视化的方式:tensorboard、netron、torchviz
