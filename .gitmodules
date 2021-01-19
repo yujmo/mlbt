@@ -7,3 +7,6 @@
 [submodule "tools/xgboost"]
 	path = tools/xgboost
 	url = https://github.com/dmlc/xgboost
+[submodule "神经网络模型/deep-learning-for-image-processing"]
+	path = 神经网络模型/deep-learning-for-image-processing
+	url = https://github.com/WZMIAOMIAO/deep-learning-for-image-processing.git
